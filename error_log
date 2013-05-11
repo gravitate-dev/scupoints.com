@@ -1,0 +1,39 @@
+[18-Mar-2013 20:22:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/monk214/public_html/scupoints.com/main.php:9) in /home/monk214/public_html/scupoints.com/register.php on line 12
+[18-Mar-2013 20:25:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/monk214/public_html/scupoints.com/main.php:9) in /home/monk214/public_html/scupoints.com/register.php on line 15
+[18-Mar-2013 20:27:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/monk214/public_html/scupoints.com/main.php:9) in /home/monk214/public_html/scupoints.com/register.php on line 15
+[18-Mar-2013 20:27:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/monk214/public_html/scupoints.com/main.php:9) in /home/monk214/public_html/scupoints.com/register.php on line 15
+[18-Mar-2013 21:49:34] PHP Parse error:  syntax error, unexpected T_RETURN in /home/monk214/public_html/scupoints.com/mysql.scupoints.inc.php on line 24
+[18-Mar-2013 21:53:37] PHP Parse error:  syntax error, unexpected '{' in /home/monk214/public_html/scupoints.com/verify.php on line 3
+[18-Mar-2013 22:01:42] PHP Warning:  include_once(mysql.robjess.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/monk214/public_html/scupoints.com/verify.php on line 2
+[18-Mar-2013 22:01:42] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'mysql.robjess.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/monk214/public_html/scupoints.com/verify.php on line 2
+[18-Mar-2013 22:03:17] PHP Parse error:  syntax error, unexpected '<' in /home/monk214/public_html/scupoints.com/verify.php on line 11
+[18-Mar-2013 22:18:03] PHP Parse error:  syntax error, unexpected T_RETURN in /home/monk214/public_html/scupoints.com/mysql.scupoints.inc.php on line 109
+[19-Mar-2013 01:23:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/monk214/public_html/scupoints.com/mysql.scupoints.inc.php on line 247
+[19-Mar-2013 02:59:36] PHP Parse error:  syntax error, unexpected T_ECHO in /home/monk214/public_html/scupoints.com/main.php on line 156
+[19-Mar-2013 03:33:53] PHP Parse error:  syntax error, unexpected $end in /home/monk214/public_html/scupoints.com/verifyFacebook.php on line 119
+[19-Mar-2013 03:34:38] PHP Parse error:  syntax error, unexpected $end in /home/monk214/public_html/scupoints.com/verifyFacebook.php on line 119
+[19-Mar-2013 03:58:51] PHP Warning:  Invalid argument supplied for foreach() in /home/monk214/public_html/scupoints.com/verifyFacebook.php on line 6
+[19-Mar-2013 03:58:51] PHP Warning:  Invalid argument supplied for foreach() in /home/monk214/public_html/scupoints.com/verifyFacebook.php on line 12
+[19-Mar-2013 04:11:10] OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+[19-Mar-2013 04:11:11] PHP Fatal error:  Uncaught OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+  thrown in /home/monk214/public_html/scupoints.com/fb/base_facebook.php on line 1254
+[19-Mar-2013 04:11:15] OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+[19-Mar-2013 04:11:16] PHP Fatal error:  Uncaught OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+  thrown in /home/monk214/public_html/scupoints.com/fb/base_facebook.php on line 1254
+[19-Mar-2013 04:24:44] PHP Parse error:  syntax error, unexpected '"' in /home/monk214/public_html/scupoints.com/mysql.scupoints.inc.php on line 317
+[19-Mar-2013 04:30:16] OAuthException: Error validating access token: The session is invalid because the user logged out.
+[19-Mar-2013 04:30:26] CSRF state token does not match one provided.
+[19-Mar-2013 04:32:35] PHP Parse error:  syntax error, unexpected $end in /home/monk214/public_html/scupoints.com/verifyFacebook.php on line 160
+[19-Mar-2013 04:32:50] PHP Parse error:  syntax error, unexpected $end in /home/monk214/public_html/scupoints.com/verifyFacebook.php on line 159
+[19-Mar-2013 04:33:12] PHP Parse error:  syntax error, unexpected '}' in /home/monk214/public_html/scupoints.com/verifyFacebook.php on line 154
+[19-Mar-2013 04:33:51] OAuthException: Error validating access token: User 687356569 has not authorized application 312549098871198.
+[19-Mar-2013 04:36:25] CSRF state token does not match one provided.
+[19-Mar-2013 04:50:31] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/monk214/public_html/scupoints.com/main.php on line 285
+[19-Mar-2013 05:05:56] CSRF state token does not match one provided.
+[19-Mar-2013 13:13:51] CSRF state token does not match one provided.
+[19-Mar-2013 15:15:38] CSRF state token does not match one provided.
+[19-Mar-2013 19:05:45] CSRF state token does not match one provided.
+[19-Mar-2013 19:37:50] CSRF state token does not match one provided.
+[19-Mar-2013 19:40:48] OAuthException: Error validating access token: User 687356569 has not authorized application 312549098871198.
+[19-Mar-2013 19:40:53] CSRF state token does not match one provided.
+[19-Mar-2013 23:04:34] CSRF state token does not match one provided.
